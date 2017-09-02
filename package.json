@@ -1,0 +1,18 @@
+{
+  "name": "css-rgb2hex",
+  "main": "./lib/css-rgb2hex",
+  "version": "0.1.1",
+  "description": " Convert css rgb-color to hex-color",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "css-rgb2hex:toggle"
+  },
+  "repository": "https://github.com/atom/css-rgb2hex",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

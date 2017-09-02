@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle css-rgb2hex",
+        "command": "css-rgb2hex:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "css-rgb2hex",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "css-rgb2hex:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
