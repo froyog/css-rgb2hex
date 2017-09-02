@@ -1,7 +1,7 @@
 # css-rgb2hex package
 
 ### Description
-A userful package if you're really bad at  conveting.
+A userful package if you're really bad at converting rgb color to hex color.
 
 ### Usage
 1. Highlight the rgb expression you would like to convert
